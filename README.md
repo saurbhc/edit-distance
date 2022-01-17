@@ -40,6 +40,6 @@ pre-commit run --all-files
 ```
 
 TODO:
-- [ ] Add Tests
+- [X] Add Tests
+- [X] Add CI
 - [ ] Make pip package
-- [ ] Add CI
